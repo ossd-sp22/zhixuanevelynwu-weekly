@@ -8,4 +8,4 @@ I'm an undergraduate student at NYU CAS, majoring in Computer Science and minori
 
 ### More Information
 
-To view more of my works, please visit my Github Homepage: https://github.com/zhixuanevelynwu
+To view more of my works, please visit my **[Github Homepage](https://github.com/zhixuanevelynwu)**.
