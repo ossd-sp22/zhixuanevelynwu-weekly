@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm an undergraduate student at NYU CAS, majoring in Computer Science and minoring in Game Design, Web Development & Application, and Mathematics.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+To view more of my works, please visit my Github Homepage: https://github.com/zhixuanevelynwu
