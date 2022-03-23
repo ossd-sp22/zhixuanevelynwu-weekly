@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 14   | https://github.com/joannakl/ossd/issues/6    | course website    |   I reported a typo.    |
-|     |     |     |      |
+| Feb 14   | [link](https://github.com/joannakl/ossd/issues/6) | course website    |   I reported a typo.    |
+| Mar 22   | [link](https://en.wikipedia.org/w/index.php?title=Dogs_of_War_(1989_video_game)&oldid=1078747084)    |  Wikipedia   |  I fixed a grammar mistake.    |
 |     |     |     |      |
