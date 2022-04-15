@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 | Mar 23   | [link](https://www.openstreetmap.org/changeset/118843043#map=19/40.72687/-73.98754)    |    OpenStreetMap |  I added the link to AOI Kitchen's website  |
 | Mar 24   | [link](https://www.openstreetmap.org/changeset/118877412)    |    OpenStreetMap |  I added the link to MIA Market's website  |
 | Mar 28   | [link](https://www.openstreetmap.org/changeset/119046680)    |    OpenStreetMap |  I added the link to Red Poke's website  |
+| April 14   | [link](https://github.com/geekquad/AlgoBook/pull/521)    |    AlgoBook |  I created a pull request that implements cocktail-shaker sort in Java :)  |
